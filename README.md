@@ -19,7 +19,7 @@ I'm a motivated **second-year Computer Science student** and self-taught full-st
 - **Deployment & Hosting:** Vercel  
 
 ## 🌟 Portfolio   
-- 💼 **Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalam-ten.vercel.app)  
+- 💼 **Portfolio:**  [Abdulsalam Hassan portfolio]((https://abdulsalamh.vercel.app/))  
 
 ## 📫 Let’s Connect!
 - **LinkedIn:** [Abdulsalam Hassan](https://www.linkedin.com/in/abdulsalam-hassan-296739368/)  
