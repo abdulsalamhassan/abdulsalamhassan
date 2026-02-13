@@ -1,7 +1,7 @@
 # Abdulsalam Hassan
 
-Full-Stack Software Engineer  
-Scalable Web Systems · API Design · Modern Frontend Architecture
+## Full-Stack Software Engineer  
+ ### Scalable Web Systems · API Design · Modern Frontend Architecture
 
 I design and build production-ready applications across the stack, focusing on clean architecture, maintainability, and performance. My work spans backend systems, database design, and modern frontend development using TypeScript and cloud-native tooling.
 
