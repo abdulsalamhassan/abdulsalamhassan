@@ -13,10 +13,10 @@ I build production-ready applications across the stack using TypeScript, Node.js
 - Clean UI with maintainable frontend architecture
 
 ## Tech
-**Backend** Node.js · NestJS · Express · fastAPI 
-**Frontend** Next.js · Tailwind CSS · TypeScript
-**Databases** PostgreSQL · MongoDB
-**DevOps & Tooling** · Docker ·Git & GitHub  ·Vercel / Render
+**Backend** Node.js · NestJS · Express · fastAPI. 
+**Frontend** Next.js · Tailwind CSS · TypeScript.
+**Databases** PostgreSQL · MongoDB.
+**DevOps & Tooling** · Docker ·Git & GitHub  ·Vercel / Render.
 
 ## Links
 **Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalamh.vercel.app/) 
