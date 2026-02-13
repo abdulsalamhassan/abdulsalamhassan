@@ -1,22 +1,24 @@
-# I’m Abdulsalam Hassan👋
+# Abdulsalam Hassan
 
-## Full-Stack Software Engineer  
-### Scalable Web Systems | API Design | Modern Frontend Architecture  
+Full-Stack Software Engineer  
+Scalable Web Systems · API Design · Modern Frontend Architecture
 
-I build production-ready applications across the stack using TypeScript, Node.js, React/Next.js, PostgreSQL, and Docker.
+I design and build production-ready applications across the stack, focusing on clean architecture, maintainability, and performance. My work spans backend systems, database design, and modern frontend development using TypeScript and cloud-native tooling.
 
 ## Focus
 - End-to-end system architecture
-- Multi-tenant SaaS design
-- Authentication & RBAC systems
-- Database modeling & performance optimization
-- Clean UI with maintainable frontend architecture
+- Multi-tenant SaaS applications
+- Authentication, authorization & RBAC
+- Database modeling and query optimization
+- Scalable API design
+- Maintainable frontend architecture
 
-## Tech
-**Backend** Node.js · NestJS · Express · fastAPI. 
-**Frontend** Next.js · Tailwind CSS · TypeScript.
-**Databases** PostgreSQL · MongoDB.
-**DevOps & Tooling** · Docker ·Git & GitHub  ·Vercel / Render.
+## Tech Stack
+
+**Backend:** Node.js · NestJS · Express · FastAPI  
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Databases:** PostgreSQL · MongoDB  
+**DevOps & Tooling:** Docker · Git · GitHub · Vercel · Render  
 
 ## Links
 **Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalamh.vercel.app/) 
