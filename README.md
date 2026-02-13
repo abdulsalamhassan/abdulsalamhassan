@@ -21,7 +21,7 @@ I design and build production-ready applications across the stack, focusing on c
 **DevOps & Tooling:** Docker · Git · GitHub · Vercel · Render  
 
 ## Links
-**Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalamh.vercel.app/) 
+**Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalamh.vercel.app/)            
 **LinkedIn:** [Abdulsalam Hassan](https://www.linkedin.com/in/abdulsalam-hassan-296739368/) 
 
 
