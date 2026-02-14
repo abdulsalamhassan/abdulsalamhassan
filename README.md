@@ -1,4 +1,4 @@
-# Abdulsalam Hassan
+# Abdulsalam Hassan Shiikhow
 
 ## Full-Stack Software Engineer  
  ### Scalable Web Systems · API Design · Modern Frontend Architecture
