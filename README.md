@@ -15,6 +15,7 @@ I design and build production-ready applications across the stack, focusing on c
 
 ## Tech Stack
 
+**Langueges:** TypeScript · Python  
 **Backend:** Node.js · NestJS · Express · FastAPI  
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
 **Databases:** PostgreSQL · MongoDB  
