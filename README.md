@@ -52,5 +52,5 @@ Docker · Git · GitHub · Railway · Vercel · Render
 
 ## Connect
 
-**Portfolio:** [abdulsalamh.vercel.app](https://www.abdulsalam.site/)  
+**Portfolio:** [abdulsalamh.site](https://www.abdulsalam.site/)  
 **LinkedIn:** [linkedin.com/in/abdulsalamhassan11](https://www.linkedin.com/in/abdulsalamhassan11/)
