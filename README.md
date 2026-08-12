@@ -1,29 +1,115 @@
-# Abdulsalam H. Shiikhow
+# Abdulsalam Hassan Shiikhow
 
-## Full-Stack Software Engineer  
- ### Scalable Web Systems · API Design · Modern Frontend Architecture
+## AI Software Engineer
+### LLM Applications · RAG Systems · Backend Engineering · Production AI
 
-I design and build production-ready applications across the stack, focusing on clean architecture, maintainability, and performance. My work spans backend systems, database design, and modern frontend development using TypeScript and cloud-native tooling.
+I build AI-powered software systems that combine large language models with reliable backend architecture.
 
-## Focus
-- End-to-end system architecture
-- Multi-tenant SaaS applications
-- Authentication, authorization & RBAC
-- Database modeling and query optimization
-- Scalable API design
-- Maintainable frontend architecture
+My work focuses on taking AI beyond demos: document intelligence, retrieval-augmented generation, structured LLM workflows, human-in-the-loop systems, and production backend services.
 
-## Tech Stack
+Currently studying Computer Science at SIMAD University while building and shipping real-world software and AI systems.
 
-**Langueges:** TypeScript · Python  
-**Backend:** Node.js · NestJS · Express · FastAPI  
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Databases:** PostgreSQL · MongoDB  
-**DevOps & Tooling:** Docker · Git · GitHub · Vercel · Render  
+---
 
-## Links
-**Portfolio:**  [Abdulsalam Hassan portfolio](https://abdulsalamh.vercel.app/)            
-**LinkedIn:** [Abdulsalam Hassan](https://www.linkedin.com/in/abdulsalamhassan11/) 
+## Selected Engineering Work
 
+### 🧠 SIMAD Examination Moderation AI
+AI-assisted academic quality assurance platform designed for university-scale examination moderation.
 
-> "Keep building. Keep learning. Keep growing." 🚀
+- LLM-based evidence generation from examination documents
+- Deterministic verification of AI-generated evidence
+- Source provenance, checksums, and evidence reliability controls
+- Prompt-injection detection and fail-closed AI behavior
+- Structured AI outputs with human-in-the-loop decision making
+- Role-based workflows, audit logs, and restricted document access
+
+**Stack:** NestJS · Next.js · PostgreSQL · Prisma · OpenAI · TypeScript
+
+---
+
+### 📚 UniMind — AI Learning Platform
+AI learning system that transforms educational documents into grounded learning experiences.
+
+- Retrieval-Augmented Generation (RAG)
+- Token-aware document chunking with overlap
+- OpenAI embeddings and semantic retrieval
+- Evidence-grounded question answering
+- Structured LLM responses
+- OpenAI and Gemini provider support
+- AI-generated summaries, quizzes, and learning content
+
+**Stack:** FastAPI · Python · NestJS · Next.js · PostgreSQL · PGVector · OpenAI · Gemini
+
+---
+
+### 🌍 Samato AI — Humanitarian Decision Support
+AI-assisted drought monitoring and humanitarian decision-support platform focused on Somalia.
+
+- District-level drought risk analysis
+- Rainfall and population context
+- Water-source routing
+- Aid-planning recommendations
+- Community alert generation
+- Deterministic decision logic with optional AI enhancement
+
+**Stack:** FastAPI · Python · Next.js · OpenAI · Anthropic · Docker
+
+---
+
+### ⚙️ Backend & Systems Engineering
+
+Beyond AI applications, I build backend systems with emphasis on:
+
+- REST API architecture
+- Multi-tenant systems
+- Authentication and authorization
+- RBAC and permission boundaries
+- PostgreSQL data modeling
+- Workflow-driven applications
+- Auditability and reliability
+- Dockerized deployment
+
+---
+
+## Technical Stack
+
+**Languages**  
+TypeScript · Python · JavaScript · SQL
+
+**AI Engineering**  
+LLM Applications · RAG · Embeddings · Semantic Retrieval · Structured Outputs · Prompt Engineering · Human-in-the-Loop AI
+
+**Backend**  
+NestJS · Node.js · Express · FastAPI · Prisma
+
+**Frontend**  
+Next.js · React · Tailwind CSS
+
+**Data**  
+PostgreSQL · PGVector · Supabase · MongoDB
+
+**AI Providers & APIs**  
+OpenAI · Anthropic Claude · Google Gemini
+
+**Infrastructure & Tooling**  
+Docker · Git · GitHub · Railway · Vercel · Render
+
+---
+
+## Engineering Interests
+
+I am particularly interested in:
+
+- Reliable LLM applications
+- AI agents and agentic systems
+- Retrieval and knowledge systems
+- Backend and distributed system architecture
+- AI evaluation and trust
+- Enterprise AI products
+
+---
+
+## Connect
+
+**Portfolio:** [abdulsalamh.vercel.app](https://abdulsalamh.vercel.app/)  
+**LinkedIn:** [linkedin.com/in/abdulsalamhassan11](https://www.linkedin.com/in/abdulsalamhassan11/)
