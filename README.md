@@ -1,6 +1,6 @@
 # Abdulsalam Hassan Shiikhow
 
-## AI Software Engineer
+## AI Product Engineer
 ### LLM Applications · RAG Systems · Backend Engineering · Production AI
 
 I build AI-powered software systems that combine large language models with reliable backend architecture.
@@ -8,20 +8,6 @@ I build AI-powered software systems that combine large language models with reli
 My work focuses on taking AI beyond demos: document intelligence, retrieval-augmented generation, structured LLM workflows, human-in-the-loop systems, and production backend services.
 
 Currently studying Computer Science at SIMAD University while building and shipping real-world software and AI systems.
-
----
-### ⚙️ Backend & Systems Engineering
-
-Beyond AI applications, I build backend systems with emphasis on:
-
-- REST API architecture
-- Multi-tenant systems
-- Authentication and authorization
-- RBAC and permission boundaries
-- PostgreSQL data modeling
-- Workflow-driven applications
-- Auditability and reliability
-- Dockerized deployment
 
 ---
 
