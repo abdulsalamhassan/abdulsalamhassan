@@ -17,7 +17,7 @@ Currently studying Computer Science at SIMAD University while building and shipp
 TypeScript · Python · C# · JavaScript · SQL
 
 **AI Engineering**  
-LLM Applications · RAG · Embeddings · Semantic Retrieval · Structured Outputs · Prompt Engineering · Human-in-the-Loop AI
+LLM Applications · RAG · Embeddings · Semantic Retrieval · Human-in-the-Loop AI
 
 **Backend**  
 NestJS · Node.js · Express · ASP.net CORE · FastAPI · Prisma
