@@ -14,25 +14,19 @@ Currently studying Computer Science at SIMAD University while building and shipp
 ## Technical Stack
 
 **Languages**  
-TypeScript · Python · JavaScript · SQL
+TypeScript · Python · C# · JavaScript · SQL
 
 **AI Engineering**  
 LLM Applications · RAG · Embeddings · Semantic Retrieval · Structured Outputs · Prompt Engineering · Human-in-the-Loop AI
 
 **Backend**  
-NestJS · Node.js · Express · FastAPI · Prisma
+NestJS · Node.js · Express · ASP.net CORE · FastAPI · Prisma
 
 **Frontend**  
-Next.js · React · Tailwind CSS
+Next.js · React · Angular · Tailwind CSS
 
 **Data**  
 PostgreSQL · PGVector · Supabase · MongoDB
-
-**AI Providers & APIs**  
-OpenAI · Anthropic Claude · Google Gemini
-
-**Infrastructure & Tooling**  
-Docker · Git · GitHub · Railway · Vercel · Render
 
 ---
 
